@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TF-115")(type "KiCad")(uri "/home/azazel/Documents/KiCADs/Custom_Libs/SD_GEN/TF-115.pretty")(options "")(descr ""))
+)
